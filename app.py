@@ -6,7 +6,7 @@ from agent.tools import load_data, revenue_vs_budget_month, gross_margin_trend, 
 from agent.plotting import bar_actual_vs_budget, line_gm_trend, pie_opex_breakdown
 
 st.set_page_config(page_title="Mini CFO Copilot", page_icon="📊", layout="centered")
-st.title("📊 Mini CFO Copilot")
+st.title("Mini CFO Copilot")
 st.caption("Ask finance questions from CSVs. Returns concise, board-ready answers + charts.")
 
 @st.cache_data
