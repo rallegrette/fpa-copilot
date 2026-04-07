@@ -1,6 +1,6 @@
 # Mini CFO Copilot (FP&A Coding Assignment)
 
-A tiny Streamlit app that answers CFO-style questions from monthly CSVs and returns concise, board-ready answers with charts.
+A small Streamlit app that answers CFO-style questions from monthly CSVs and returns concise, board-ready answers with charts.
 
 ## Quickstart
 
