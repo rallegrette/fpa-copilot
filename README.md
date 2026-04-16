@@ -51,6 +51,5 @@ README.md
   - **Opex total (USD)**: accounts starting with `Opex:` (e.g., `Opex:Sales`)
   - **EBITDA (proxy)**: Revenue − COGS − Opex
   - **Cash runway**: cash ÷ avg monthly net burn (last 3 months)
-- Intent classification is simple regex to keep the exercise snappy. You can swap in LLMs later.
+- Intent classification is simple regex to keep the exercise snappy. We can swap in LLMs later.
 - The tests run on the sample fixtures just to prove the plumbing works.
-# fpa-copilot
